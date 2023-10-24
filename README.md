@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **cloud service providers, best practices for cloud deployment, or any questions related to cloud technology. I'm here to share my knowledge and learn from others in the community.**
 
-- 📫 How to reach me **iblessing17@outlook.com**
-
 - ⚡ Fun fact **I'm a firm believer that "the cloud" isn't just in the sky; it's in data centers worldwide, making the digital world go round!**
 
 <h3 align="left">Connect with me:</h3>
