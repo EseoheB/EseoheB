@@ -30,4 +30,4 @@ More projects in progress, combining cloud infrastructure and data analytics.
 ## Currently
 
 Building a portfolio of projects that combine cloud infrastructure and data
-analytics, and applying for roles at that intersection.
+analytics.
