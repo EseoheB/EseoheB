@@ -19,15 +19,25 @@ Terraform, GitHub Actions
 
 ## Featured Projects
 
+**[Cloud Resource Management and Cost Optimization System](https://github.com/EseoheB/cloud-cost-optimization-db)**
+A 19-table MySQL database for tracking cloud usage, budgets, department chargeback,
+and invoice reconciliation. Benchmarked indexes on 2 million synthetic usage events
+with EXPLAIN ANALYZE, cutting a per-resource cost query from 1.5 s to 23 ms. Results
+feed a [live Tableau dashboard](https://public.tableau.com/app/profile/rabiat.blessing.ibrahim/viz/CloudCostOptimizationDashboard_17918460822610/CloudCostOptimization).
+
+**[NYC Taxi BigQuery Analysis](https://github.com/EseoheB/nyc-taxi-bigquery-analysis)**
+SQL analysis of 146 million NYC yellow taxi trips in Google BigQuery, built as a
+three-person team project. My queries compare card and cash riders by hour and
+measure revenue per mile, where fixing an outlier problem revealed that hours with
+longer trips earn less per mile (r = -0.90).
+
 **[Climate Emission Strategy Analysis](https://github.com/EseoheB/climate-emission-strategy-analysis)**
 Analysis of 2.4 million emission reduction records from Climate TRACE, ranking
 decarbonization strategies by raw impact versus impact adjusted for implementation
 difficulty. Identifies sectors where the two rankings disagree and surfaces the
 more actionable choice.
 
-More projects in progress, combining cloud infrastructure and data analytics.
-
 ## Currently
 
-Building a portfolio of projects that combine cloud infrastructure and data
-analytics.
+Adding my remaining analytics and cloud projects to GitHub, each with documented
+queries, real results, and notes on what the data did and didn't show.
