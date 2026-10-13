@@ -43,6 +43,13 @@ dataset with TF-IDF and logistic regression, reaching 90.56% accuracy. Covers
 preprocessing, training, and evaluation, and serves the model through a Flask API
 with /health and /predict endpoints.
 
+**[HIV Trends in Sub-Saharan Africa](https://github.com/EseoheB/sub-saharan-hiv-analysis)**
+MySQL database combining UNAIDS HIV estimates with World Bank economic data for 49
+countries, 2007-2024, with R scripts and a
+[live Tableau dashboard](https://public.tableau.com/app/profile/rabiat.blessing.ibrahim/viz/Sub-SaharanAfricaHIVTrends2007-2024/HIVTrendsinSub-SaharanAfrica).
+Found and fixed 116 values that understated new infections and deaths, revealing a
+60% drop in new infections across the region.
+
 ## Currently
 
 Adding my remaining analytics and cloud projects to GitHub, each with documented
