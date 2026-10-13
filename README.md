@@ -37,6 +37,12 @@ decarbonization strategies by raw impact versus impact adjusted for implementati
 difficulty. Identifies sectors where the two rankings disagree and surfaces the
 more actionable choice.
 
+**[MLOps Pipeline](https://github.com/EseoheB/mlops-pipeline)**
+End-to-end machine learning pipeline that classifies documents from the 20 Newsgroups
+dataset with TF-IDF and logistic regression, reaching 90.56% accuracy. Covers
+preprocessing, training, and evaluation, and serves the model through a Flask API
+with /health and /predict endpoints.
+
 ## Currently
 
 Adding my remaining analytics and cloud projects to GitHub, each with documented
