@@ -50,7 +50,7 @@ countries, 2007-2024, with R scripts and a
 Found and fixed 116 values that understated new infections and deaths, revealing a
 60% drop in new infections across the region.
 
-### [Understanding Magazine Subscription Behavior](https://github.com/EseoheB/marketing-campaign-subscription-prediction)
+**[Understanding Magazine Subscription Behavior](https://github.com/EseoheB/marketing-campaign-subscription-prediction)**
 Predicted which customers will subscribe using logistic regression and SVM in Python, handling a 14.9% subscribe rate with balanced class weights. The SVM reached 86.70% AUC, and past campaign response, recent purchases, and customer tenure were the strongest drivers.
 **Tools:** Python, pandas, scikit-learn, matplotlib, seaborn
 
