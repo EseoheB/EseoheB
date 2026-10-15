@@ -9,6 +9,8 @@ I'm growing my cloud and analytics skills side by side, on purpose. The work I e
 Outside of school, I help a travel blogger friend plan and shoot her content, which is a big part of why I'm curious about what makes one post take off and another one disappear.
 
 
+🎯 **Think you can read a scatter plot?** [Play Guess the Correlation](https://eseoheb.github.io/guess-the-correlation/), a quick 10-round data game I built.
+
 ---
 
 ## 🚀 Featured projects
